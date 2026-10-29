@@ -1,9 +1,7 @@
 # SALES-PROJECT
 Sales Analysis:
 
-Summary: This project analyzed 909 furniture sales records from 2014 to 2015 using MySQL, generating total revenue of 2,831,665.67 from 7,997 units sold. The analysis identified
-Chameleon Couch as the highest revenue-generating product, South West as the highest revenue-generating region, and Ramey, Sam as the top sales representative by quantity sold. The
-findings provide insights into product performance, regional sales, and revenue growth, while additional data on profit, sales channels, and payment methods would support more comprehensive business decisions.
+SUMMARY: This project analyzed 909 furniture sales records from 2014 to 2015 using MySQL, generating total revenue of 2,831,665.67 from 7,997 units sold. The analysis identified Chameleon Couch as the highest revenue-generating product, South West as the highest revenue-generating region, and Ramey, Sam as the top sales representative by quantity sold. The findings provide insights into product performance, regional sales, and revenue growth, while additional data on profit, sales channels, and payment methods would support more comprehensive business decisions.
 
 OBJECTIVES:
 1. Analyze Sales Performance: Use MySQL to examine the furniture sales dataset and evaluate overall sales performance.
@@ -30,13 +28,9 @@ APPROACH:
 The project followed a structured data analysis approach using MySQL to examine the furniture sales dataset. The process involved inspecting the dataset, checking data quality, calculating total revenue and quantities sold, and analyzing product performance, yearly sales trends, regional performance, and sales representative contributions. Finally, the results were interpreted to identify key findings, limitations, and recommendations to support better business decisions.
 
 DATA LIMITATIONS:            
-Limited Data Period: The dataset covers only 2014–2015, so it may not reflect current sales performance or recent market trends.
-
-Lack of Profit Information: The dataset does not include product costs or profit margins, making it impossible to determine the most profitable products.
-
-Missing Sales Channel Information: The dataset does not specify whether sales occurred online or in physical stores, limiting comparisons between sales channels.
-
-Missing Payment Method Information: The dataset does not include payment methods, preventing analysis of customer payment preferences.
-
-Limited Customer Information: The dataset contains only five customer names and lacks unique customer identifiers or detailed customer records, limiting the ability to accurately  analyze customer behavior and distinguish new customers from returning customers.
+1. Limited Data Period: The dataset covers only 2014–2015, so it may not reflect current sales performance or recent market trends.
+2. Lack of Profit Information: The dataset does not include product costs or profit margins, making it impossible to determine the most profitable products.
+3. Missing Sales Channel Information: The dataset does not specify whether sales occurred online or in physical stores, limiting comparisons between sales channels.
+4. Missing Payment Method Information: The dataset does not include payment methods, preventing analysis of customer payment preferences.
+5. Limited Customer Information: The dataset contains only five customer names and lacks unique customer identifiers or detailed customer records, limiting the ability to accurately  analyze customer behavior and distinguish new customers from returning customers.
 
