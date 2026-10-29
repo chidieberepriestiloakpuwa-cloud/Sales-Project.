@@ -5,7 +5,7 @@ Summary: This project analyzed 909 furniture sales records from 2014 to 2015 usi
 Chameleon Couch as the highest revenue-generating product, South West as the highest revenue-generating region, and Ramey, Sam as the top sales representative by quantity sold. The
 findings provide insights into product performance, regional sales, and revenue growth, while additional data on profit, sales channels, and payment methods would support more comprehensive business decisions.
 
-Objectives:
+OBJECTIVES:
 1. Analyze Sales Performance: Use MySQL to examine the furniture sales dataset and evaluate overall sales performance.
 2. Identify Top-Performing Products: Determine which furniture products generate the highest revenue and sell the greatest quantities.
 3. Evaluate Regional Sales: Compare sales performance across regions to identify the highest- and lowest-performing areas.
@@ -13,6 +13,7 @@ Objectives:
 5. Track Revenue Trends: Compare annual revenue and sales quantities for 2014 and 2015 to identify changes in business performance.
 
 KEY FINDINGS:
+
 Overall Sales Performance: The business generated total revenue of 2,831,665.67 from 7,997 units sold across 909 sales records between January 2014 and December 2015.
 
 Product Performance: Media Armoire recorded the highest quantity sold, with 1,815 units, while Chameleon Couch generated the highest revenue of 1,343,116.05.
@@ -25,15 +26,18 @@ Sales Representative Performance: Ramey, Sam recorded the highest sales quantity
 
 RECOMMENDATIONS: 
 
-💡 Improve Product Management: Maintain sufficient stock of high-performing products, especially Media Armoire and Chameleon Couch, while reviewing the demand for     lower-performing products.
+Improve Product Management: Maintain sufficient stock of high-performing products, especially Media Armoire and Chameleon Couch, while reviewing the demand for lower-performing products.
 
-💡 Strengthen Regional Sales: Investigate the success of the South West region and apply its effective sales strategies to regions with lower revenue,                 particularly South East.
+Strengthen Regional Sales: Investigate the success of the South West region and apply its effective sales strategies to regions with lower revenue, particularly South East.
 
-💡 Reward and Support Sales Representatives: Recognize top performer Ramey, Sam, and provide additional training and support to representatives with lower sales       performance.
+Reward and Support Sales Representatives: Recognize top performer Ramey, Sam, and provide additional training and support to representatives with lower sales performance.
 
-💡 Increase Revenue Growth: Develop targeted promotions, marketing campaigns, and sales strategies to improve revenue and encourage more product purchases.
+Increase Revenue Growth: Develop targeted promotions, marketing campaigns, and sales strategies to improve revenue and encourage more product purchases.
 
-💡 Improve Data Collection: Include additional fields such as product cost, profit, sales channel, payment method, and unique customer ID to support profitability     analysis and better business decisions.
+Improve Data Collection: Include additional fields such as product cost, profit, sales channel, payment method, and unique customer ID to support profitability analysis and better business decisions.
+
+APPROACH:
+The project followed a structured data analysis approach using MySQL to examine the furniture sales dataset. The process involved inspecting the dataset, checking data quality, calculating total revenue and quantities sold, and analyzing product performance, yearly sales trends, regional performance, and sales representative contributions. Finally, the results were interpreted to identify key findings, limitations, and recommendations to support better business decisions.
 
 DATA LIMITATIONS:
 
