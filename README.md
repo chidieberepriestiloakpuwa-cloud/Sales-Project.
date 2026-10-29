@@ -15,14 +15,13 @@ Objectives:
 
 KEY FINDINGS:
 
-🔑 Overall Sales Performance: The business generated total revenue of 2,831,665.67 from 7,997 units sold across 909 sales records between January 2014 and December 2015.
-
-🔑 Product Performance: Media Armoire recorded the highest quantity sold, with 1,815 units, while Chameleon Couch generated the highest revenue of 1,343,116.05.
-
+🔑 Overall Sales Performance: The business generated total revenue of 2,831,665.67 from 7,997 units sold across 909 sales records between
+   January 2014 and December 2015.
+🔑 Product Performance: Media Armoire recorded the highest quantity sold, with 1,815 units, while Chameleon Couch generated the highest 
+    revenue of 1,343,116.05.
 🔑 Yearly Revenue Growth: Revenue increased from 1,389,110.80 in 2014 to 1,442,554.87 in 2015, representing an increase of approximately 3.85%.
-
-🔑 Regional Sales Performance: South West generated the highest revenue of 998,636.31, while North East recorded the highest quantity sold, with 2,807 units.
-
+🔑 Regional Sales Performance: South West generated the highest revenue of 998,636.31, while North East recorded the highest quantity sold,
+    with 2,807 units.
 🔑 Sales Representative Performance: Ramey, Sam recorded the highest sales quantity, with 1,068 units, generating revenue of 362,436.56.
 
 RECOMMENDATIONS: 
