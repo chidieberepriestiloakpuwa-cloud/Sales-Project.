@@ -34,3 +34,4 @@ Track Revenue Trends: Compare annual revenue and sales quantities for 2014 and 2
 📈 Missing Sales Channel Information: The dataset does not specify whether sales occurred online or in physical stores, limiting comparisons between sales channels.
 📈 Missing Payment Method Information: The dataset does not include payment methods, preventing analysis of customer payment preferences.
 📈 Limited Customer Information: The dataset contains only five customer names and lacks unique customer identifiers or detailed customer records, limiting the ability to accurately         analyze customer behavior and distinguish new customers from returning customers.
+
