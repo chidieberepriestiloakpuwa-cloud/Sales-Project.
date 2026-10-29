@@ -13,7 +13,8 @@ Objectives:
 4. Assess Sales Representative Performance: Identify sales representatives with the highest and lowest sales quantities and revenue.
 5. Track Revenue Trends: Compare annual revenue and sales quantities for 2014 and 2015 to identify changes in business performance.
 
-KEY FINDINGS: 
+KEY FINDINGS:
+
 🔑 Overall Sales Performance: The business generated total revenue of 2,831,665.67 from 7,997 units sold across 909 sales records between January 2014 and December 2015.
 
 🔑 Product Performance: Media Armoire recorded the highest quantity sold, with 1,815 units, while Chameleon Couch generated the highest revenue of 1,343,116.05.
@@ -36,10 +37,14 @@ RECOMMENDATIONS:
 
 💡 Improve Data Collection: Include additional fields such as product cost, profit, sales channel, payment method, and unique customer ID to support profitability analysis and better        business decisions.
 
-DATA LIMITATIONS: 
+DATA LIMITATIONS:
 📈 Limited Data Period: The dataset covers only 2014–2015, so it may not reflect current sales performance or recent market trends.
+
 📈 Lack of Profit Information: The dataset does not include product costs or profit margins, making it impossible to determine the most profitable products.
+
 📈 Missing Sales Channel Information: The dataset does not specify whether sales occurred online or in physical stores, limiting comparisons between sales channels.
+
 📈 Missing Payment Method Information: The dataset does not include payment methods, preventing analysis of customer payment preferences.
+
 📈 Limited Customer Information: The dataset contains only five customer names and lacks unique customer identifiers or detailed customer records, limiting the ability to accurately  analyze customer behavior and distinguish new customers from returning customers.
 
