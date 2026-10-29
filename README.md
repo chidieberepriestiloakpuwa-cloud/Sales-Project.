@@ -6,11 +6,12 @@ Chameleon Couch as the highest revenue-generating product, South West as the hig
 findings provide insights into product performance, regional sales, and revenue growth, while additional data on profit, sales channels, and payment methods would support more 
 comprehensive business decisions.
 
-Objectives: Analyze Sales Performance: Use MySQL to examine the furniture sales dataset and evaluate overall sales performance.
-Identify Top-Performing Products: Determine which furniture products generate the highest revenue and sell the greatest quantities.
-Evaluate Regional Sales: Compare sales performance across regions to identify the highest- and lowest-performing areas.
-Assess Sales Representative Performance: Identify sales representatives with the highest and lowest sales quantities and revenue.
-Track Revenue Trends: Compare annual revenue and sales quantities for 2014 and 2015 to identify changes in business performance.
+Objectives:
+1. Analyze Sales Performance: Use MySQL to examine the furniture sales dataset and evaluate overall sales performance.
+2. Identify Top-Performing Products: Determine which furniture products generate the highest revenue and sell the greatest quantities.
+3. Evaluate Regional Sales: Compare sales performance across regions to identify the highest- and lowest-performing areas.
+4. Assess Sales Representative Performance: Identify sales representatives with the highest and lowest sales quantities and revenue.
+5. Track Revenue Trends: Compare annual revenue and sales quantities for 2014 and 2015 to identify changes in business performance.
 
 KEY FINDINGS: 
 🔑 Overall Sales Performance: The business generated total revenue of 2,831,665.67 from 7,997 units sold across 909 sales records between January 2014 and December 2015.
@@ -25,9 +26,14 @@ KEY FINDINGS:
 
 RECOMMENDATIONS: 
 💡 Improve Product Management: Maintain sufficient stock of high-performing products, especially Media Armoire and Chameleon Couch, while reviewing the demand for lower-performing           products.
+
 💡 Strengthen Regional Sales: Investigate the success of the South West region and apply its effective sales strategies to regions with lower revenue, particularly South East.
+
+
 💡 Reward and Support Sales Representatives: Recognize top performer Ramey, Sam, and provide additional training and support to representatives with lower sales performance.
 💡 Increase Revenue Growth: Develop targeted promotions, marketing campaigns, and sales strategies to improve revenue and encourage more product purchases.
+
+
 💡 Improve Data Collection: Include additional fields such as product cost, profit, sales channel, payment method, and unique customer ID to support profitability analysis and better        business decisions.
 
 DATA LIMITATIONS: 
