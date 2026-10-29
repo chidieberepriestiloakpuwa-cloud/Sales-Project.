@@ -28,10 +28,9 @@ KEY FINDINGS:
     
 🔑 Sales Representative Performance: Ramey, Sam recorded the highest sales quantity, with 1,068 units, generating revenue of 362,436.56.
 
-RECOMMENDATIONS:
-💡 Improve Product Management: Maintain sufficient stock of high-performing products, especially Media Armoire and Chameleon Couch, while reviewing the demand for lower-performing           products.
+RECOMMENDATIONS:                                                                                                                                                 💡 Improve Product Management: Maintain sufficient stock of high-performing products, especially Media Armoire and Chameleon Couch, while reviewing the demand for     lower-performing products.
 
-💡 Strengthen Regional Sales: Investigate the success of the South West region and apply its effective sales strategies to regions with lower revenue, particularly South East.
+💡 Strengthen Regional Sales: Investigate the success of the South West region and apply its effective sales strategies to regions with lower revenue,                 particularly South East.
 
 
 💡 Reward and Support Sales Representatives: Recognize top performer Ramey, Sam, and provide additional training and support to representatives with lower sales performance.
